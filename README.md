@@ -70,9 +70,15 @@ Approaches for part 2 and part 3:
 
 In the last column we take the pixel with min/max probability in this case we take min probability and corresponding path.
 
+#### Results:
+
+![alt text](https://github.com/srmanj/Artificial-Intelligence-geotagging-using-Viterbi/tree/master/imgs/0.jpg)
+
 **References** - </br>
 
 [1] - https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160011500.pdf  (Idea for Viterbi implementation) </br>
 [2] - https://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm . </br>
+
+
 
 

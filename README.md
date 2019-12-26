@@ -72,7 +72,7 @@ In the last column we take the pixel with min/max probability in this case we ta
 
 #### Results:
 
-![alt text](https://github.com/srmanj/Artificial-Intelligence-geotagging-using-Viterbi/tree/master/imgs/0.jpg)
+![alt text](https://github.com/srmanj/Artificial-Intelligence-geotagging-using-Viterbi/blob/master/imgs/0.jpg)
 
 **References** - </br>
 
